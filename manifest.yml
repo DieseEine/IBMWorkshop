@@ -1,0 +1,5 @@
+applications:
+- name: cranky-hermann
+  memory: 128M
+  host: cranky-hermann
+  buildpack: staticfile_buildpack
